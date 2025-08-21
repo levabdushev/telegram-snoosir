@@ -18,9 +18,3 @@ This Python script automates sending complaints to Telegram support about a user
 - Python 3.x
 - Termux (if running on Android) or any Python environment
 - Gmail accounts with App Passwords enabled (see below)
-
-# Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/telegram-complaint-bot.git
-   cd telegram-complaint-bot
